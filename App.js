@@ -100,6 +100,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontSize: 30,
     fontWeight: 'bold',
+    fontStyle: 'cursive',
   },
   imageIcon: {
     width: 150,
